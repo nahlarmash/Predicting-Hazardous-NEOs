@@ -6,13 +6,13 @@ Predicting Hazardous NEOs (Nearest Earth Objects)
 
 <a name="readme-top"></a>
 ## Table of Contents
-- [Overview](#-Overview)
+- [Overview](#Overview)
 - [Data Importing and Cleaning](#Data-Importing-and-Cleaning)
 - [Dataset Description](#Dataset-Description)
-- [Exploratory Data Analysis (EDA)](#Exploratory-Data-Analysis)
+- [Exploratory Data Analysis (EDA)](#Exploratory-Data-Analysis-(EDA))
 - [Data Preprocessing](#Data-Preprocessing)
 - [Model Building and Evaluation](#Model-Building-and-Evaluation)
-- [Conclusion](#-Conclusion)
+- [Conclusion](#Conclusion)
 
 ## Overview
 In this project, we analyze and predict whether Near-Earth Objects (NEOs), which have been monitored by NASA from 1910 to 2024, are classified as hazardous. This is a binary classification problem where the goal is to predict if a given NEO is hazardous based on its features.
